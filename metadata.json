@@ -1,0 +1,6 @@
+{
+  "name": "Raena's Learning Journey",
+  "description": "An adaptive, multimodal AI learning tutor for 7-year-old Raena featuring gamified math challenges, phonics & sight words mastery, interactive storytelling, and parent learning analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
